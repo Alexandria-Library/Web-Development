@@ -1,5 +1,6 @@
 ## Frontend Developer
 Frontend developer adalah orang yang berperan mengembangkan tampilan situs atau aplikasi melalui HTML, CSS, dan JavaScript.
+
 ### Referensi Jalur Pembelajaran Frontend Web Development
 1. [Dicoding](https://www.dicoding.com/learningpaths/22) (Free or Paid)
 2. [Progate](https://progate.com/paths/frontend) (Paid with Low Price)
@@ -49,7 +50,7 @@ Coming soon...
 
 ### Referensi Proyek Latihan
 1. Kalkulator Sederhana
-2. Todolist
+2. To Do List
 3. Landing Page
 4. Website Travel
 5. Toko Online (E-Commerce)
