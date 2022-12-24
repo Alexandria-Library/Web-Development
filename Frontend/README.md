@@ -30,7 +30,7 @@ Frontend developer adalah orang yang berperan mengembangkan tampilan situs atau 
 6. [JavaScript Intermediate (Skilvul)](https://skilvul.com/courses/javascript-intermediate)
 
 ### Referensi Kelas Online Frontend Web Development Tingkat Mahir (Gratis)
-Coming soon...
+1. [JavaScript Lanjutan (Unpas)](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-)
 
 
 ### Referensi Buku/Bacaan
