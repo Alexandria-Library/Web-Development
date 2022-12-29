@@ -72,7 +72,8 @@ Coming soon...
 * Toko Online (E-Commerce)
 
 ## Cheat Sheet
-Coming soon...
+* [Cheat Sheet dan Emmet HTML5 & CSS](https://docs.emmet.io/cheat-sheet/)
+* [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices)
 
 ## Media Sosial
 * [Frontend Trend (Telegram)](https://t.me/frontend_trend)
