@@ -10,15 +10,6 @@ Back-End development adalah posisi dimana seorang merancang perangkat lunak dari
 
 ## Kelas Online (Gratis)
 ### Tingkat Pemula
-* HTML
-  * [HTML 5 Dasar (BWA)](https://buildwithangga.com/kelas/html5-dasar?thumbnail=8WxBDfdcNv.19&main_leads=topics) :indonesia:
-  * [HTML 5 Dasar (Unpas)](https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) :indonesia:
-* CSS
-  * [CSS Dasar (Unpas)](https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) :indonesia:
-  * [CSS Dasar (Skilvul)](https://skilvul.com/courses/css-dasar) :indonesia:
-  * [CSS Value & Unit (Unpas)](https://www.youtube.com/watch?v=3-quMftxV3Q&list=PLFIM0718LjIWon_W_QTK3UMzE-tFvOhaq) :indonesia:
-  * [CSS Layouting (Unpas)](https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr) :indonesia:
-  * [CSS 3 (Unpas)](https://www.youtube.com/watch?v=J0a6YUUAsd4&list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) :indonesia:
 * JavaScript
   * [JS Dasar (Unpas)](https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) :indonesia:
   * [Javascript Dasar (Skilvul)](https://skilvul.com/courses/javascript-dasar) :indonesia:
