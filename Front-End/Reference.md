@@ -99,6 +99,10 @@ Coming soon...
 * [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices) :us:
 * [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices/blob/main/README.id.md) :indonesia:
 
+## Permainan
+* [Belajar CSS Flexbox (Flexbox Froggy)](https://flexboxfroggy.com/#id) (Gratis) 🇮🇩
+* [Belajar CSS Grid (Grid Garden)](https://cssgridgarden.com/#id) (Gratis) 🇮🇩
+
 ## Kisaran Gaji
 * [Glassdoor](https://www.glassdoor.com/Salaries/indonesia-frontend-developer-salary-SRCH_IL.0,9_IN113_KO10,28.htm?clickSource=searchBtn)  (area Indonesia) :us:
 * [Glints](https://glints.com/id/opportunities/jobs/explore?keyword=Frontend+Developer&country=ID&locationName=Indonesia) (area Indonesia) :indonesia:
