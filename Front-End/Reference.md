@@ -93,15 +93,13 @@ Coming soon...
 * [CSSBattle](https://cssbattle.dev/) :us:
 * [devChallenges](https://devchallenges.io/paths/front-end-developer) :us:
 * [Codewell](https://www.codewell.cc/) :us:
+* [CSS Flexbox (Flexbox Froggy)](https://flexboxfroggy.com/#id) 🇮🇩
+* [CSS Grid (Grid Garden)](https://cssgridgarden.com/#id) 🇮🇩
 
 ## Cheat Sheet
 * [Cheat Sheet dan Emmet HTML5 & CSS](https://docs.emmet.io/cheat-sheet/) :us:
 * [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices) :us:
 * [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices/blob/main/README.id.md) :indonesia:
-
-## Permainan
-* [Belajar CSS Flexbox (Flexbox Froggy)](https://flexboxfroggy.com/#id) (Gratis) 🇮🇩
-* [Belajar CSS Grid (Grid Garden)](https://cssgridgarden.com/#id) (Gratis) 🇮🇩
 
 ## Kisaran Gaji
 * [Glassdoor](https://www.glassdoor.com/Salaries/indonesia-frontend-developer-salary-SRCH_IL.0,9_IN113_KO10,28.htm?clickSource=searchBtn)  (area Indonesia) :us:
