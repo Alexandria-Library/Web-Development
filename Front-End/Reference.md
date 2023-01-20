@@ -76,7 +76,10 @@ Coming soon...
 Coming soon...
 
 ## Buku/Bacaan
-Coming soon...
+* [Modern React: Be Frontend Javascript Developer](https://www.petanikode.com/buku/modern-react/#!) (paid) :indonesia:
+* [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) (Free) :us:
+* [Don't Make Me Think](https://drive.google.com/file/d/1LIZRxufW-FsT62B8uz-6QkwBAwlv6I5c/view?usp=share_link) (Free) :us:
+* [The Design of Everyday Things](https://drive.google.com/file/d/1AJHEhyFpjGVmKkQ0etP4XYWyQ6SM4GZP/view?usp=share_link) (Free) :us:
 
 ## Proyek Latihan
 * Kalkulator Sederhana
@@ -85,8 +88,20 @@ Coming soon...
 * Website Travel
 * Toko Online (E-Commerce)
 
+## Platform Latihan
+* [Frontend Mentor](https://www.frontendmentor.io/challenges) :us:
+* [CSSBattle](https://cssbattle.dev/) :us:
+* [devChallenges](https://devchallenges.io/paths/front-end-developer) :us:
+* [Codewell](https://www.codewell.cc/) :us:
+
 ## Cheat Sheet
-Coming soon...
+* [Cheat Sheet dan Emmet HTML5 & CSS](https://docs.emmet.io/cheat-sheet/) :us:
+* [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices) :us:
+* [Cara Baik dan Buruk Penulisan Tag/Kode HTML](https://github.com/hail2u/html-best-practices/blob/main/README.id.md) :indonesia:
+
+## Kisaran Gaji
+* [Glassdoor](https://www.glassdoor.com/Salaries/indonesia-frontend-developer-salary-SRCH_IL.0,9_IN113_KO10,28.htm?clickSource=searchBtn)  (area Indonesia) :us:
+* [Glints](https://glints.com/id/opportunities/jobs/explore?keyword=Frontend+Developer&country=ID&locationName=Indonesia) (area Indonesia) :indonesia:
 
 ## Media Sosial
 * [Frontend Trend (Telegram)](https://t.me/frontend_trend) :us:
