@@ -11,34 +11,36 @@ Back-End development adalah posisi dimana seorang merancang perangkat lunak dari
 ## Kelas Online (Gratis)
 ### Tingkat Pemula
 * JavaScript
-  * [JS Dasar (Unpas)](https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) :indonesia:
   * [Javascript Dasar (Skilvul)](https://skilvul.com/courses/javascript-dasar) :indonesia:
+  * [JS Dasar (Unpas) [2017]](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) :indonesia:
 * PHP (Hypertext Preprocessor)
-  * [PHP Dasar (Unpas)](https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) :indonesia:
+  * [Tutorial PHP Dasar Bahasa Indonesia (Programmer Zaman Now) [2020]](https://www.youtube.com/watch?v=TaBWhb5SPfc) :indonesia:
+  * [PHP Dasar (Unpas) [2017]](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) :indonesia:
 
 ### Tingkat Menengah
 * MySQL
-  * [Tutorial Belajar Database MySQL | MariaDB (Indonesia Belajar)](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) :indonesia:
+  * [Tutorial Belajar Database MySQL | MariaDB (Indonesia Belajar) [2020]](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) :indonesia:
 * MongoDB
-  * [Belajar MongoDB (Programmer Zaman Now)](https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) :indonesia:
+  * [Belajar MongoDB (Programmer Zaman Now) [2020]](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) :indonesia:
 * JavaScript
-  * [JavaScript Lanjutan (Unpas)](https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) :indonesia:
   * [JavaScript Intermediate (Skilvul)](https://skilvul.com/courses/javascript-intermediate) :indonesia:
-  * [NodeJS (Unpas)](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD):indonesia:
+  * [JavaScript Lanjutan (Unpas) [2022]](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) :indonesia:
+  * [Belajar NodeJS (Unpas) [2021]](https://www.youtube.com/playlist?list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) :indonesia:
 * PHP (Hypertext Preprocessor)
-  * [PHP OOP (Unpas)](https://www.youtube.com/watch?v=ZKDUFoouyBI&list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) :indonesia:
-  * [MVC dengan PHP (Unpas)](https://www.youtube.com/watch?v=tBKOb8Ib5nI&list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) :indonesia:
-* API (Application Programming Interaface)
-  * [REST API (Unpas)](https://www.youtube.com/watch?v=vQJJ_K1JbEA&list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0) :indonesia:
+  * [OOP Dasar pada PHP (Unpas) [2018]](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) :indonesia:
+  * [Membuat Aplikasi MVC dengan PHP (Unpas) [2018]](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) :indonesia:
+* API (Application Programming Interface)
+  * [REST API (Unpas) [2019]](https://www.youtube.com/playlist?list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0) :indonesia:
 
 ### Tingkat Mahir
-* JavaScript
-  * [Satu Jam Jago RESTFul API dengan Express.js dan MongoDB - Tutorial Express MongoDB Indonesia (
-IDStack
-)](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) :indonesia:
-* PHP (Hypertext Preprocessor)
-  * [Belajar LARAVEL 8 (Unpas)](https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) :indonesia:
-  * [Tutorial CODEIGNITER 4 (Unpas)](https://www.youtube.com/watch?v=VckqV2wC1gs&list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) :indonesia:
+* Express
+  * [Satu Jam Jago RESTFul API dengan Express.js dan MongoDB - Tutorial Express MongoDB Indonesia (IDStack) [2021]](https://www.youtube.com/watch?v=4X0MFuE8ebs) :indonesia:
+* Laravel
+  * [Belajar LARAVEL 8 (Unpas) [2021]](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) :indonesia:
+* CodeIgniter
+  * [Tutorial CODEIGNITER 4 (Unpas) [2020]](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) :indonesia:
+* Ruby on Rails
+  * [Tutorial Ruby On Rails 7 Indonesia (Padang Tekno) [2022]](https://www.youtube.com/playlist?list=PLYfaT5HP5yRpMhjdzN9b5QM3ZaGq_odE9) :indonesia:
 
 ## Kelas Online (Berbayar)
 ### Tingkat Pemula
@@ -92,11 +94,11 @@ Coming soon...
 * [Glints](https://glints.com/id/opportunities/jobs/explore?keyword=backend+developer&country=ID&locationName=Indonesia) (area Indonesia) :indonesia:
 
 ## Media Sosial
-* [Flask Indonesia (Telegram)](https://t.me/flaskid)
-* [Django Indonesia (Telegram)](https://t.me/DjangoID)
-* [Laravel Indonesia (Telegram)](https://t.me/laravelindonesia)
-* [JavaScript Indonesia (Telegram)](https://t.me/js_id)
-* [JVM Indonesia (Telegram)](https://t.me/JVMIndonesia)
-* [Golang Indonesia (Telegram)](https://t.me/golangID)
-* [Komunitas Back-End Developer (Telegram)](https://t.me/BackEndID)
-* [javascript_wizz (Instagram)](https://www.instagram.com/javascript_wizz/)
+* [Flask Indonesia (Telegram)](https://t.me/flaskid) :indonesia:
+* [Django Indonesia (Telegram)](https://t.me/DjangoID) :indonesia:
+* [Laravel Indonesia (Telegram)](https://t.me/laravelindonesia) :indonesia:
+* [JavaScript Indonesia (Telegram)](https://t.me/js_id) :indonesia:
+* [JVM Indonesia (Telegram)](https://t.me/JVMIndonesia) :indonesia:
+* [Golang Indonesia (Telegram)](https://t.me/golangID) :indonesia:
+* [Komunitas Back-End Developer (Telegram)](https://t.me/BackEndID) :indonesia:
+* [javascript_wizz (Instagram)](https://www.instagram.com/javascript_wizz/) :us:
