@@ -76,7 +76,7 @@ Coming soon...
 Coming soon...
 
 ## Buku/Bacaan
-* [Modern React: Be Frontend Javascript Developer](https://www.petanikode.com/buku/modern-react/#!) (paid) :indonesia:
+* [Modern React: Be Frontend Javascript Developer](https://www.petanikode.com/buku/modern-react/#!) (Paid) :indonesia:
 * [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) (Free) :us:
 * [Don't Make Me Think](https://drive.google.com/file/d/1LIZRxufW-FsT62B8uz-6QkwBAwlv6I5c/view?usp=share_link) (Free) :us:
 * [The Design of Everyday Things](https://drive.google.com/file/d/1AJHEhyFpjGVmKkQ0etP4XYWyQ6SM4GZP/view?usp=share_link) (Free) :us:
