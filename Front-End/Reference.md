@@ -25,7 +25,7 @@ Front-End development adalah bidang dari web development yang berfokus pada peng
   * [HTML 5 Dasar (Unpas) [2015]](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) :indonesia:
   * [HTML Tutorial for Beginners: HTML Crash Course (Programming with Mosh) [2021]](https://www.youtube.com/watch?v=qz0aGYrrlhU) :us:
 * CSS
-  * Dasar
+  * Tingkat Dasar
     * [CSS Website Design (BuildWith Angga)](https://buildwithangga.com/kelas/css-website-design?thumbnail=uEVdnpahf3.20&main_leads=topics) :indonesia:
     * [CSS Dasar (Skilvul)](https://skilvul.com/courses/css-dasar) :indonesia:
     * [CSS Dasar (Unpas) [2021]](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) :indonesia:
@@ -33,26 +33,28 @@ Front-End development adalah bidang dari web development yang berfokus pada peng
     * [CSS Unit (Unpas) [2021]](https://www.youtube.com/playlist?list=PLFIM0718LjIWon_W_QTK3UMzE-tFvOhaq) :indonesia:
     * [CSS 3 (Unpas) [2016]](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) :indonesia:
     * [CSS Tutorial - Full Course for Beginners (freeCodeCamp) [2022]](https://www.youtube.com/watch?v=OXGznpKZ_sA) :us:
-  * Menengah
+  * Tingkat Menengah
     * [TheCinCSS Series (array id) [2021]](https://www.youtube.com/playlist?list=PL0T3Siqy2B-Qdc51YJXXzfT4CyfohapM-) :indonesia:
     * [Belajar Flexbox (Unpas) [2020]](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) :indonesia:
     * [CSS Grid (Unpas) [2020]](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) :indonesia:
 * JavaScript
-  * Dasar
+  * Tingkat Dasar
     * [JavaScript Dasar (Skilvul)](https://skilvul.com/courses/javascript-dasar) :indonesia:
     * [Tutorial JavaScript Dasar Bahasa Indonesia (Programmer Zaman Now) [2021]](https://www.youtube.com/watch?v=SDROba_M42g) :indonesia:
     * [JS Dasar (Unpas) [2017]](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) :indonesia:
     * [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (Programming with Mosh) [2018]](https://www.youtube.com/watch?v=W6NZfCO5SIk) :us:
-  * Menengah
+  * Tingkat Menengah
     * [JavaScript Intermediate (Skilvul)](https://skilvul.com/courses/javascript-intermediate) :indonesia:
     * [JavaScript DOM Manipulation - Full Course for Beginners (freeCodeCamp) [2022]](https://www.youtube.com/watch?v=5fb2aPlgoys) :us:
-  * Mahir
+  * Tingkat Mahir
     * [JavaScript Lanjutan (Unpas) [2022]](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) :indonesia:
 ### _Library_
 * React
   * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript (array id) [2021]](https://www.youtube.com/watch?v=JS5w4rUbjQE&t=1827s) :indonesia:
   * [Satu Jam Jago React.js Hook Basic (IDStack) [2021]](https://www.youtube.com/watch?v=Xeozh4udqUQ) :indonesia:
   * [10 Reach Hooks Explained (Fireship) [2021]](https://www.youtube.com/watch?v=TNhaISOUy6Q) :us:
+* React Material UI
+  * [React Material UI Tutorial (Codevolution) [2022]](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO) :us:
 * Bootstrap
   * [Bootstrap 5 - Membuat Website Landing Page (Skilvul)](https://skilvul.com/courses/bootstrap-5-membuat-website-landing-page) :indonesia:
   * [CSS Bootstrap 4 Web Design (BuildWith Angga)](https://buildwithangga.com/kelas/css-bootstrap-4-web-design?thumbnail=eqBUzarKNm.23&main_leads=topics) :indonesia:
@@ -66,12 +68,19 @@ Front-End development adalah bidang dari web development yang berfokus pada peng
   * [Tailwind Crash Course | Project From Scratch (Traversy Media) [2022]](https://www.youtube.com/watch?v=dFgzHOX84xQ) :us:
 * Styled Components
   * [Styled Components Crash Course (freeCodeCamp) [2021]](https://www.youtube.com/watch?v=02zO0hZmwnw) :us:
+* jQuery
+  * [Tutorial jQuery Bahasa Indonesia (Framework Indonesia) [2019]](https://www.youtube.com/playlist?list=PLce3Eyp7oY98VSAcerueAIOEsHfiszWxI) :indonesia:
 
 ### _Framework_
 * Vue
   * [Vue JavaScript Framework (BuildWith Angga)](https://buildwithangga.com/kelas/vue-javascript-framework?thumbnail=cLnqV8LKU9.9&main_leads=topics) :indonesia:
   * [Dasar Vue Js 3 (SekolahKoding)](https://sekolahkoding.com/kelas/dasar-vue-js-3) :indonesia:
   * [Tutorial Lengkap Vue JS 3 Untuk Pemula (M Fikri) [2021]](https://www.youtube.com/watch?v=tQzWB1W0pok&t=11s) :indonesia:
+  * [Vue.js 3 Tutorial (The Net Ninja) [2020]](https://www.youtube.com/play]list?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) :us:
+* Angular
+  * [Tutorial Angular Indonesia (baledemy) [2022]](https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu) :indonesia:
+  * [Angular for Beginners Course [Full Front End Tutorial with TypeScript] (freeCodeCamp) [2022]](https://www.youtube.com/watch?v=3qBXWUpoPHo) :us:
+  * [Angular Tutorial for Beginners (Codevolution) [2020]](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) :us:
 * Svelte
   * [Tutorial Svelte Indonesia (Ipung Dev Academy) [2020]](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhWp2pn6vRhUVVC1txQuTZE) :indonesia:
   * [Svelte Crash Course (Traversy Media) [2021]](https://www.youtube.com/watch?v=3TVy6GdtNuQ) :us:
