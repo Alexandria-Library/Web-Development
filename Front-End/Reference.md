@@ -24,6 +24,7 @@ Front-End development adalah bidang dari web development yang berfokus pada peng
   * [HTML 5 Dasar (BuildWith Angga)](https://buildwithangga.com/kelas/html5-dasar?thumbnail=8WxBDfdcNv.19&main_leads=topics) :indonesia:
   * [HTML 5 Dasar (Unpas) [2015]](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) :indonesia:
   * [HTML Tutorial for Beginners: HTML Crash Course (Programming with Mosh) [2021]](https://www.youtube.com/watch?v=qz0aGYrrlhU) :us:
+  * [Belajar Web - HTML & CSS Dasar (Kelas Terbuka) [2023]](https://youtube.com/playlist?list=PLZS-MHyEIRo5c56EM3NBWpCnb4naBZvXh) 🇮🇩
 * CSS
   * Tingkat Dasar
     * [CSS Website Design (BuildWith Angga)](https://buildwithangga.com/kelas/css-website-design?thumbnail=uEVdnpahf3.20&main_leads=topics) :indonesia:
